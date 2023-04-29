@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## 배경 background
+# 배경 background
 ### 1️⃣ 독서의 중요성
 
 1. **인지적 측면**: 독서는 우리에게 새로운 지식과 정보를 제공하고, 다양한 시각과 관점을 통해 세상을 바라볼 수 있는 기회를 제공합니다. 이를 통해 우리는 더욱 풍부한 지식과 경험을 쌓을 수 있습니다.
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-## 해결방안 Resolution
+# 해결방안 Resolution
 ### 01. 
 ![설문조사2](/profile/img/poll.png)
 
@@ -27,11 +27,11 @@
 <br>
 <br>
 
-## 핵심목표 goal
+# 핵심목표 goal
 ![목표](/profile/img/goal.png)
 
 <br>
 <br>
 
-## 프로젝트소개 project
+# 프로젝트소개 project
 ![설문조사1](/profile/img/service.png)
