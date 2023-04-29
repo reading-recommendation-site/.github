@@ -16,6 +16,7 @@
 
 <br>
 <br>
+<br>
 
 # 해결방안 Resolution
 ### 01. 
@@ -26,10 +27,12 @@
 
 <br>
 <br>
+<br>
 
 # 핵심목표 goal
 ![목표](/profile/img/goal.png)
 
+<br>
 <br>
 <br>
 
