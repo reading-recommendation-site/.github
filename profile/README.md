@@ -12,3 +12,26 @@
 3. **사회적 측면**: 독서는 우리가 더욱 창의적이고 혁신적인 사고를 할 수 있도록 도와줍니다. 또한, 독서는 우리의 언어 능력을 향상시켜, 원활한 커뮤니케이션과 문제 해결 능력을 강화하는 데 도움을 줍니다.
 
 ### 2️⃣ 대한민국의 독서율
+![설문조사1](/profile/img/reading-rate-statistics.png)
+
+<br>
+<br>
+
+## 해결방안 Resolution
+### 01. 
+![설문조사2](/profile/img/poll.png)
+
+### 02. 
+![설문조사1](/profile/img/resolution.png)
+
+<br>
+<br>
+
+## 핵심목표 goal
+![목표](/profile/img/goal.png)
+
+<br>
+<br>
+
+## 프로젝트소개 project
+![설문조사1](/profile/img/service.png)
